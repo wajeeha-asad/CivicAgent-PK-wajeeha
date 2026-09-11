@@ -1,0 +1,52 @@
+[
+  {
+    "id": "prototype_street_lighting_001",
+    "title": "Street Lighting Maintenance Policy",
+    "category": "street_lighting",
+    "authority": "Municipal Authority",
+    "source_type": "prototype",
+    "source": "Hackathon prototype policy",
+    "language": "English",
+    "text": "Municipal authorities are responsible for receiving and processing complaints concerning non-functional public street lights. A street-lighting complaint should include the location of the affected light or street and enough information for the responsible maintenance team to identify the issue. The responsible municipal maintenance department should inspect the reported location and determine the required repair or maintenance action."
+  },
+  {
+    "id": "prototype_waste_collection_001",
+    "title": "Municipal Waste Collection Policy",
+    "category": "waste_management",
+    "authority": "Municipal Authority",
+    "source_type": "prototype",
+    "source": "Hackathon prototype policy",
+    "language": "English",
+    "text": "Municipal waste-management services are responsible for the collection and handling of household and public-area waste within their designated service areas. Citizens reporting uncollected waste should provide the location of the affected area and relevant details about the issue. The responsible sanitation or waste-management department should review the complaint and arrange appropriate action where the complaint falls within its service area."
+  },
+  {
+    "id": "prototype_water_supply_001",
+    "title": "Water Supply Complaint Policy",
+    "category": "water_supply",
+    "authority": "Municipal Authority",
+    "source_type": "prototype",
+    "source": "Hackathon prototype policy",
+    "language": "English",
+    "text": "Complaints concerning interruption, leakage, or other problems with public water supply should be recorded with the location and description of the reported problem. The responsible water-supply authority should assess the complaint and determine whether inspection, maintenance, or repair is required."
+  },
+  {
+    "id": "prototype_road_damage_001",
+    "title": "Road and Public Infrastructure Complaint Policy",
+    "category": "roads",
+    "authority": "Municipal Authority",
+    "source_type": "prototype",
+    "source": "Hackathon prototype policy",
+    "language": "English",
+    "text": "Complaints about damaged public roads, potholes, or related municipal infrastructure should contain the location and a description of the reported damage. The responsible infrastructure or municipal engineering department should assess the reported condition and determine the appropriate maintenance or repair action."
+  },
+  {
+    "id": "prototype_drainage_001",
+    "title": "Drainage and Sewerage Complaint Policy",
+    "category": "drainage",
+    "authority": "Municipal Authority",
+    "source_type": "prototype",
+    "source": "Hackathon prototype policy",
+    "language": "English",
+    "text": "Citizens may report blocked drains, drainage problems, or related municipal sewerage issues by providing the location and description of the problem. The responsible drainage or sewerage department should assess the complaint and take appropriate inspection, cleaning, maintenance, or repair action when the issue falls within its responsibilities."
+  }
+]
